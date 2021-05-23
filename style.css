@@ -1,0 +1,16 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+    background-image: url("https://www.jeffskipperconsulting.com/wp-content/uploads/2017/05/47036176-fun-pictures-1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#canvas10{
+	border-width: 5px;
+	background-color:white;
+	border-style: double;
+}
